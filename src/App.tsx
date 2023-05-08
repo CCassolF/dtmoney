@@ -3,7 +3,7 @@ import { GlobalStyle } from "./styles/global";
 export function App() {
   return (
     <div className="App">
-      <h1>hello word</h1>
+      <h1>Hello Word</h1>
       <GlobalStyle />
     </div>
   );
